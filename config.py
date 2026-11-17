@@ -1,8 +1,8 @@
 '''
 This is the file to read configuration files
 Format of the server configuration file:
-SERVER_PORT=SERVER_PORT_NUMBER
-PATH=PATH_OF_SERVER_SHARED_DIRECTORY
+SERVER_PORT=12000
+PATH=server_storage
 
 Format of the client configuration file:
 SERVER=192.168.56.102
